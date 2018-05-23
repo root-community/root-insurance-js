@@ -1,0 +1,22 @@
+{
+  "name": "root-insurance",
+  "version": "0.1.0",
+  "description": "A wrapper around Root's Insurance API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/root-community/root-insurance-js.git"
+  },
+  "author": "Root Wealth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/root-community/root-insurance-js/issues"
+  },
+  "homepage": "https://github.com/root-community/root-insurance-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
