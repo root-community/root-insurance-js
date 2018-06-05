@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/root-community/root-insurance-js#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "mime-types": "^2.1.18"
   },
   "devDependencies": {
     "jasmine": "^3.1.0",
